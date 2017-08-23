@@ -6,3 +6,6 @@ def add_function():
     print("nice function")
 def joke():
     print("A true IT specialist believes one kilometer to be equal to 1024 meters.")
+
+def shout():
+    print("Olabogamotylanoga!!!!!!111111jeden")
