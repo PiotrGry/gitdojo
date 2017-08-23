@@ -1,5 +1,5 @@
 def introduce():
-    print("Hello, I'm gittie!")
+    print("Hello, I'm gittie!, my name is piotrek and i am awesome")
 
 
 def add_function():
